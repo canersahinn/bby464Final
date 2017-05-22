@@ -1,0 +1,330 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/REpHSirksmXiWrvUPeJTV#"
+     xml:base="http://webprotege.stanford.edu/project/REpHSirksmXiWrvUPeJTV"
+     xmlns:webprotege="http://webprotege.stanford.edu/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/REpHSirksmXiWrvUPeJTV"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBnzlELNMKMNhNpbjvEuH7L -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/RBnzlELNMKMNhNpbjvEuH7L">
+        <rdfs:label>todo</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RtGXfF8l7EPWnxxZmuoYzb -->
+
+    <owl:AnnotationProperty rdf:about="http://webprotege.stanford.edu/RtGXfF8l7EPWnxxZmuoYzb">
+        <rdfs:label>population</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R2AqfHSmnQMk6rI5BeMHro -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R2AqfHSmnQMk6rI5BeMHro">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>DeriKoltuk</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8ww6pntZnggbrQmAuvdGWy -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R8ww6pntZnggbrQmAuvdGWy">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>IsitmaliKoltuk</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RB1PYapaiMEVt3JuLjkYWJN -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RB1PYapaiMEVt3JuLjkYWJN">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>ParkSensoru</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/REzcPuDVPMGNWjezjifXZa -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/REzcPuDVPMGNWjezjifXZa">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>CamFilmi</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RHoHDKcR51fPOpL3oL0PER -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RHoHDKcR51fPOpL3oL0PER">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>HidrolikDireksiyon</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7QaCsUanXMFVuwz3EcA44S -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R7QaCsUanXMFVuwz3EcA44S">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>kilometre</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7vuerZVahZo3IcakJxFXxh -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R7vuerZVahZo3IcakJxFXxh">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>vites</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9YoLdYJbgHM4a5kF9mWAHh -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9YoLdYJbgHM4a5kF9mWAHh">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>yakit</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9c8FjBvYyCQMJf1AMOnKXO -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9c8FjBvYyCQMJf1AMOnKXO">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>marka</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBJyn6XJlW5YrczsVVlv5jn -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RBJyn6XJlW5YrczsVVlv5jn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>yil</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBOY3hyQwdYGKzbt4CPfRBf -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RBOY3hyQwdYGKzbt4CPfRBf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>model</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8it8VPYV5URXkpWzyZTDZz -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R8it8VPYV5URXkpWzyZTDZz">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>hatchback</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBgHRzccWo587qm5MypPs1k -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBgHRzccWo587qm5MypPs1k">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>sedan</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7XF5m1BtJ6Z8h5tusNk19Y -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7XF5m1BtJ6Z8h5tusNk19Y">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBgHRzccWo587qm5MypPs1k"/>
+        <webprotege:R2AqfHSmnQMk6rI5BeMHro rdf:resource="http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC"/>
+        <webprotege:R8ww6pntZnggbrQmAuvdGWy rdf:resource="http://webprotege.stanford.edu/R8Y4Q9246oE9U83Wi55N4G3"/>
+        <webprotege:REzcPuDVPMGNWjezjifXZa rdf:resource="http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC"/>
+        <webprotege:RHoHDKcR51fPOpL3oL0PER rdf:resource="http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC"/>
+        <webprotege:R7QaCsUanXMFVuwz3EcA44S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17000</webprotege:R7QaCsUanXMFVuwz3EcA44S>
+        <webprotege:R9YoLdYJbgHM4a5kF9mWAHh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Benzin</webprotege:R9YoLdYJbgHM4a5kF9mWAHh>
+        <webprotege:R9c8FjBvYyCQMJf1AMOnKXO rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renault</webprotege:R9c8FjBvYyCQMJf1AMOnKXO>
+        <webprotege:RBJyn6XJlW5YrczsVVlv5jn rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2016</webprotege:RBJyn6XJlW5YrczsVVlv5jn>
+        <webprotege:RBOY3hyQwdYGKzbt4CPfRBf rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fluence</webprotege:RBOY3hyQwdYGKzbt4CPfRBf>
+        <rdfs:label>Renault Fluence</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R87fGTDrgWhY439v1089qNs -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R87fGTDrgWhY439v1089qNs">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8it8VPYV5URXkpWzyZTDZz"/>
+        <webprotege:R2AqfHSmnQMk6rI5BeMHro rdf:resource="http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC"/>
+        <webprotege:R8ww6pntZnggbrQmAuvdGWy rdf:resource="http://webprotege.stanford.edu/R8Y4Q9246oE9U83Wi55N4G3"/>
+        <webprotege:REzcPuDVPMGNWjezjifXZa rdf:resource="http://webprotege.stanford.edu/R8Y4Q9246oE9U83Wi55N4G3"/>
+        <webprotege:RHoHDKcR51fPOpL3oL0PER rdf:resource="http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC"/>
+        <webprotege:R7QaCsUanXMFVuwz3EcA44S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36000</webprotege:R7QaCsUanXMFVuwz3EcA44S>
+        <webprotege:R7vuerZVahZo3IcakJxFXxh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">manual</webprotege:R7vuerZVahZo3IcakJxFXxh>
+        <webprotege:R9YoLdYJbgHM4a5kF9mWAHh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">benzin</webprotege:R9YoLdYJbgHM4a5kF9mWAHh>
+        <webprotege:R9c8FjBvYyCQMJf1AMOnKXO rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Volkswagen</webprotege:R9c8FjBvYyCQMJf1AMOnKXO>
+        <webprotege:RBJyn6XJlW5YrczsVVlv5jn rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</webprotege:RBJyn6XJlW5YrczsVVlv5jn>
+        <webprotege:RBOY3hyQwdYGKzbt4CPfRBf rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Polo</webprotege:RBOY3hyQwdYGKzbt4CPfRBf>
+        <rdfs:label>Volkswagen Polo</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8Y4Q9246oE9U83Wi55N4G3 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8Y4Q9246oE9U83Wi55N4G3">
+        <rdfs:label>hayir</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8rdcNHpkBHqpi7kebqI2bs -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8rdcNHpkBHqpi7kebqI2bs">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBgHRzccWo587qm5MypPs1k"/>
+        <webprotege:R2AqfHSmnQMk6rI5BeMHro rdf:resource="http://webprotege.stanford.edu/R8Y4Q9246oE9U83Wi55N4G3"/>
+        <webprotege:R8ww6pntZnggbrQmAuvdGWy rdf:resource="http://webprotege.stanford.edu/R8Y4Q9246oE9U83Wi55N4G3"/>
+        <webprotege:REzcPuDVPMGNWjezjifXZa rdf:resource="http://webprotege.stanford.edu/R8Y4Q9246oE9U83Wi55N4G3"/>
+        <webprotege:RHoHDKcR51fPOpL3oL0PER rdf:resource="http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC"/>
+        <webprotege:R7QaCsUanXMFVuwz3EcA44S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">300000</webprotege:R7QaCsUanXMFVuwz3EcA44S>
+        <webprotege:R9YoLdYJbgHM4a5kF9mWAHh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LPG</webprotege:R9YoLdYJbgHM4a5kF9mWAHh>
+        <webprotege:R9c8FjBvYyCQMJf1AMOnKXO rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Toyota</webprotege:R9c8FjBvYyCQMJf1AMOnKXO>
+        <webprotege:RBJyn6XJlW5YrczsVVlv5jn rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1998</webprotege:RBJyn6XJlW5YrczsVVlv5jn>
+        <webprotege:RBOY3hyQwdYGKzbt4CPfRBf rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corolla</webprotege:RBOY3hyQwdYGKzbt4CPfRBf>
+        <rdfs:label>Toyota Corolla</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R91w5IBfKZ85bQhBfXIGll6 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R91w5IBfKZ85bQhBfXIGll6">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBgHRzccWo587qm5MypPs1k"/>
+        <webprotege:R2AqfHSmnQMk6rI5BeMHro rdf:resource="http://webprotege.stanford.edu/R8Y4Q9246oE9U83Wi55N4G3"/>
+        <webprotege:R8ww6pntZnggbrQmAuvdGWy rdf:resource="http://webprotege.stanford.edu/R8Y4Q9246oE9U83Wi55N4G3"/>
+        <webprotege:REzcPuDVPMGNWjezjifXZa rdf:resource="http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC"/>
+        <webprotege:RHoHDKcR51fPOpL3oL0PER rdf:resource="http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC"/>
+        <webprotege:R7QaCsUanXMFVuwz3EcA44S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5000</webprotege:R7QaCsUanXMFVuwz3EcA44S>
+        <webprotege:R9YoLdYJbgHM4a5kF9mWAHh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Benzin</webprotege:R9YoLdYJbgHM4a5kF9mWAHh>
+        <webprotege:R9c8FjBvYyCQMJf1AMOnKXO rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Volvo</webprotege:R9c8FjBvYyCQMJf1AMOnKXO>
+        <webprotege:RBJyn6XJlW5YrczsVVlv5jn rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2017</webprotege:RBJyn6XJlW5YrczsVVlv5jn>
+        <webprotege:RBOY3hyQwdYGKzbt4CPfRBf rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S60</webprotege:RBOY3hyQwdYGKzbt4CPfRBf>
+        <rdfs:label>Volvo S60</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R929qIxVL89uVr92mZQ1MXj -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R929qIxVL89uVr92mZQ1MXj">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8it8VPYV5URXkpWzyZTDZz"/>
+        <webprotege:R2AqfHSmnQMk6rI5BeMHro rdf:resource="http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC"/>
+        <webprotege:R8ww6pntZnggbrQmAuvdGWy rdf:resource="http://webprotege.stanford.edu/R8Y4Q9246oE9U83Wi55N4G3"/>
+        <webprotege:REzcPuDVPMGNWjezjifXZa rdf:resource="http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC"/>
+        <webprotege:RHoHDKcR51fPOpL3oL0PER rdf:resource="http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC"/>
+        <webprotege:R7QaCsUanXMFVuwz3EcA44S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36000</webprotege:R7QaCsUanXMFVuwz3EcA44S>
+        <webprotege:R7vuerZVahZo3IcakJxFXxh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">otomatik</webprotege:R7vuerZVahZo3IcakJxFXxh>
+        <webprotege:R9YoLdYJbgHM4a5kF9mWAHh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">dizel</webprotege:R9YoLdYJbgHM4a5kF9mWAHh>
+        <webprotege:R9c8FjBvYyCQMJf1AMOnKXO rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Renault</webprotege:R9c8FjBvYyCQMJf1AMOnKXO>
+        <webprotege:RBJyn6XJlW5YrczsVVlv5jn rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2016</webprotege:RBJyn6XJlW5YrczsVVlv5jn>
+        <webprotege:RBOY3hyQwdYGKzbt4CPfRBf rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clio</webprotege:RBOY3hyQwdYGKzbt4CPfRBf>
+        <rdfs:label>Renault Clio</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC">
+        <rdfs:label>evet</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RrQ5tYvujjp5WP9QGu05Lg -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RrQ5tYvujjp5WP9QGu05Lg">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R8it8VPYV5URXkpWzyZTDZz"/>
+        <webprotege:R2AqfHSmnQMk6rI5BeMHro rdf:resource="http://webprotege.stanford.edu/R8Y4Q9246oE9U83Wi55N4G3"/>
+        <webprotege:R8ww6pntZnggbrQmAuvdGWy rdf:resource="http://webprotege.stanford.edu/R8Y4Q9246oE9U83Wi55N4G3"/>
+        <webprotege:REzcPuDVPMGNWjezjifXZa rdf:resource="http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC"/>
+        <webprotege:RHoHDKcR51fPOpL3oL0PER rdf:resource="http://webprotege.stanford.edu/RDq18n5nmcuiYjfS8Dhz4BC"/>
+        <webprotege:R7QaCsUanXMFVuwz3EcA44S rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70000</webprotege:R7QaCsUanXMFVuwz3EcA44S>
+        <webprotege:R9YoLdYJbgHM4a5kF9mWAHh rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dizel</webprotege:R9YoLdYJbgHM4a5kF9mWAHh>
+        <webprotege:R9c8FjBvYyCQMJf1AMOnKXO rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ford</webprotege:R9c8FjBvYyCQMJf1AMOnKXO>
+        <webprotege:RBJyn6XJlW5YrczsVVlv5jn rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2012</webprotege:RBJyn6XJlW5YrczsVVlv5jn>
+        <webprotege:RBOY3hyQwdYGKzbt4CPfRBf rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fiesta</webprotege:RBOY3hyQwdYGKzbt4CPfRBf>
+        <rdfs:label>Ford Fiesta</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.3.1) https://github.com/owlcs/owlapi -->
+
